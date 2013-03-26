@@ -43,4 +43,4 @@ limitations under the License.
 A copy of the license is available in the repository's [license.txt]( https://raw.github.com/Esri/quickstart-map-js/master/license.txt) file.
 
 [](Esri Tags: ArcGIS WPF MVVM)
-[](Esri Language: C#)
+[](Esri Language: C-Sharp)
