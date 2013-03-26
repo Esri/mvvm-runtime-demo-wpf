@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMapApplication", "WpfMapApplication\WpfMapApplication.csproj", "{3D64CA6B-DE33-41A4-B306-63C0E6446658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{E05F0BEF-6180-4391-8D1F-D7E23B60848C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D64CA6B-DE33-41A4-B306-63C0E6446658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D64CA6B-DE33-41A4-B306-63C0E6446658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D64CA6B-DE33-41A4-B306-63C0E6446658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D64CA6B-DE33-41A4-B306-63C0E6446658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05F0BEF-6180-4391-8D1F-D7E23B60848C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05F0BEF-6180-4391-8D1F-D7E23B60848C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05F0BEF-6180-4391-8D1F-D7E23B60848C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05F0BEF-6180-4391-8D1F-D7E23B60848C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
